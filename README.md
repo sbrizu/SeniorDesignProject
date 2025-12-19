@@ -4,3 +4,20 @@ This project implements an automated donation intake system designed for Goodwil
 
 This system was developed as part of the Senior Design course in Mechanical Engineering at Tufts University by Ariana Olivares, Nathan Henderson and Sol Brizuela.
 
+
+# Hardware Requirements
+
+Automated donation intake system using:
+- Raspberry Pi 4
+- 2x HC-SR04 ultrasonic sensors (object detection)
+- PIR sensor (motion safety)
+- 2 stepper motors (door actuation)
+- solenoid locks + servo lock indicator
+- conveyor belt relay
+- NeoPixel RGBW status LEDs
+- Flask status webpage (live user-facing messages)
+
+## Run
+Install deps:
+```bash
+pip3 install -r requirements.txt
