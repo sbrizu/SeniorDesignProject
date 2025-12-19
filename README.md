@@ -1,2 +1,6 @@
-# SeniorDesignProject
-After-hours donation system using ultrasonic and PIR safety detection to control stepper-actuated doors, solenoid locks, a conveyor belt, NeoPixel status LEDs, and a live Flask status UI. Developed for the Senior Design course at Tufts University.
+# Goodwill After-Hours Donation System
+
+This project implements an automated donation intake system designed for Goodwill-style donation boxes. The system uses a Raspberry Pi to coordinate ultrasonic distance sensing, PIR-based safety detection, motorized doors, solenoid locks, a conveyor belt, and RGBW NeoPixel status indicators. A live Flask-based web interface provides real-time user-friendly status updates during the donation process.
+
+This system was developed as part of the Senior Design course in Mechanical Engineering at Tufts University by Ariana Olivares, Nathan Henderson and Sol Brizuela.
+
